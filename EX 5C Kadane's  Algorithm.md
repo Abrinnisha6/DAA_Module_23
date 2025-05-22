@@ -1,6 +1,6 @@
 # EX 5C Kadane's Algorithm
 
-## DATE :
+## DATE :13/05/2025
 
 ## AIM :
 
